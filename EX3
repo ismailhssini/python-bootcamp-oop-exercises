@@ -1,0 +1,3 @@
+name is an instance attribute 
+surname is a classe attribute
+profession is a classe attribute, but it can optionally be overridden by an instance attribute in the constructor.
