@@ -1,0 +1,8 @@
+1-Person is a classe
+2-person is an instance of the Person classe
+3-surname is a parameter passed into the __init__ method
+4-self is a parameter passed into each instance method of the class 
+5-age is a method of the Person class
+6-age (the variable used inside the function) is a local variable inside the scope of the age method.
+7-self.email isn’t really a separate variable. It’s an example of how we can refer to attributes and methods of an object using a variable which refers to the object
+8-person.email is another example of the same thing
